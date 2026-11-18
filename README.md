@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-This code analyzes data of hummingbirds from 1991–2016. It includes code to see survival, distribution of intake between hospitals, create plots, proportion released vs. died, and characteristics of the birds.
+This code analyzes data of hummingbirds in rehabilitation centers in California from 1991–2016. It includes code to see survival, distribution of intake between hospitals, create plots, proportion released vs. died, and characteristics of the birds.
 
 ## Project Organization
 ------------
